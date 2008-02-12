@@ -1,0 +1,10 @@
+#summary This is pre-reading material for the hackathon.
+
+= Google Gears =
+
+  *[http://code.google.com/apis/gears/ Gears Home]
+  *[http://code.google.com/apis/gears/sample.html Samples]
+  *[http://code.google.com/apis/gears/api_summary.html API reference]
+
+
+= AJAX Search/Feeds =
