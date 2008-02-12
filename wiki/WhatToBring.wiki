@@ -1,0 +1,9 @@
+What to bring/install for the hackathon
+
+= What to bring/have prepared =
+  * Laptop
+  * Any demos using our APIs
+  * [http://gears.google.com/ Google Gears]
+  * [https://addons.mozilla.org/en-US/firefox/addon/1843 Firebug] for debugging JavaScript
+  * Subversion utility -- to use code.google.com hosting for JavaScript (note: server-side scripts won't run)
+  * If you don't plan on using code.google.com to host code, have your own host prepared
