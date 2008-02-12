@@ -1,5 +1,3 @@
-#What to bring/install for the hackathon
-
 = What to bring/have prepared =
   * Laptop
   * Any demos using our APIs
