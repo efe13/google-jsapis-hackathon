@@ -8,3 +8,9 @@
 
 
 = AJAX Search/Feeds =
+
+  * [http://code.google.com/apis/ajaxsearch/ AJAX Search Home]
+  * [http://code.google.com/apis/ajaxsearch/documentation/#Examples AJAX Search Tutorial]
+  * [http://code.google.com/apis/ajaxsearch/wizards.html AJAX Search Wizards]
+  * [http://code.google.com/apis/ajaxfeeds/ AJAX Feeds Home]
+  * [http://code.google.com/apis/ajaxfeeds/examples.html AJAX Feeds Examples]
