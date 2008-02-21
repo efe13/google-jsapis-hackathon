@@ -1,0 +1,15 @@
+#summary Brainstorm ideas for projects to hack on here.
+
+= Ideas =
+
+  * Offline Weather w/ AJAX Feed API + Google Gears
+    * Use Yahoo weather feed: http://developer.yahoo.com/weather/
+  * Using the Gears WorkerPool module to solve TSP & display result on map
+    * Could adapt TSP solver from: http://gebweb.net/optimap/
+  * Using the Gears WorkerPool module to perform clustering calculation and then display marker clusters on map
+  * Make a sudoku solver & generator with WorkerPool module
+  * Make blogger account into a tumblelog using JS Client Library - create UI for user to say "post photo/quote/etc", have them enter in info, then form and post the HTML to the blog  
+    * See http://www.tumblr.com/help to understand what a tumblelog is
+  * Use JS Client Library to make a page where users can log-in to their blogger and calendar accounts, and then it will create events on their calendar corresponding to each blog post
+  * Use Google Gadgets, Gadgets Finance API, and Chart API to create a quick view of certain stocks
+  * Create a special Lyrics search tool by making a CSE for the best lyrics sites, and using AJAX Search with CSE restriction
