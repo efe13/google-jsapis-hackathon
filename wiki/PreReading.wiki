@@ -14,3 +14,24 @@
   * [http://code.google.com/apis/ajaxsearch/wizards.html AJAX Search Wizards]
   * [http://code.google.com/apis/ajaxfeeds/ AJAX Feeds Home]
   * [http://code.google.com/apis/ajaxfeeds/examples.html AJAX Feeds Examples]
+
+= Google Maps API =
+
+  * [http://code.google.com/apis/maps/ Maps API Home]
+  * [http://code.google.com/support/bin/answer.py?answer=74725&topic=11364 Tutorial: Creating Your First Map]
+  * [http://code.google.com/support/bin/answer.py?answer=87133&topic=11364 Debugging with the Maps API]
+  * [http://code.google.com/apis/maps/documentation/demogallery.html Maps API Demo Gallery]
+
+= Google Gadgets API =
+
+  * [http://code.google.com/apis/gadgets/ Gadgets API Landing Page]
+  * [http://code.google.com/apis/gadgets/docs/dev_guide.html Gadgets API Developer Guide]
+  * [http://www.youtube.com/view_play_list?p=F64E83E3524C452E Getting started with Gadgets on Youtube]
+
+= Google data Javascript Client Libraries =
+
+  * [http://code.google.com/apis/gdata/client-js.html JS Client Lib Developer Guide]
+  * [http://code.google.com/apis/gdata/jsdoc/ JS Client Lib JS Doc]
+  * [http://code.google.com/apis/gdata/samples.html#JavaScript JS Client Lib Samples]
+  * [http://www.youtube.com/watch?v=DjSO5nAK6wE Blogger JS Client Lib on Youtube]
+  * [http://www.youtube.com/watch?v=ZvFVs92Fydw Explanation of JS Client Lib on Youtube]
