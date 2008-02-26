@@ -1,3 +1,5 @@
+#summary What to bring to the hackathon
+
 = What to bring/have prepared =
   * Laptop
   * Any demos using our APIs
