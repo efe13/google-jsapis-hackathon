@@ -1,4 +1,6 @@
 #summary How to get to the hackathon
 
 Look at this map, it will show you where to park, and the room that the hackathon is in.  If you right click on the map, you can select "directions to here".
+
+
 http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=110238536692955634646.00044701f0f6ba65cff6d&t=h&z=17
